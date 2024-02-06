@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+</head>
+<body>
+
+    <h1>Phylicia Sudario</h1>
+
+    <p>Hello, I'm Phylicia and I go to Lourdes University as a student athlete in women’s wrestling.</p>
+
+    <p>One of my favorite hobbies is wrestling. I have been wrestling since my freshman year of high school and I have continued to enjoy it to help me further my college education.  I like that the sport helps me mentally and physically on and off the wrestling mat.</p>
+
+    <h2>Favorite Books</h2>
+    <ol>
+        <li>America is in the Heart</li>
+        <li>Kira Kira</li>
+        <li>The Life of Pi</li>
+    </ol>
+
+    <h2>Least Favorite Movies</h2>
+    <ul>
+        <li>The Hulk</li>
+        <li>Sausage Party</li>
+        <li>Jack and Jill</li>
+    </ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Webpage</title>
+</head>
+<body>
+
+
+    <!-- Hyperlink to favorite website -->
+    <p>Check out my favorite website: <a href="https://www.coolmathgames.com/" target="_blank">https://www.coolmathgames.com/</a></p>
+
+
+    <!-- Image representing favorite hobby/interest -->
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepngimg.com%2Fpng%2F32757-wrestling-hd&psig=AOvVaw1g5LjjYPWnNTFUiCyICAj0&ust=1707267460822000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCw3IXBlYQDFQAAAAAdAAAAABAE" alt="Image representing my favorite hobby">
+
+
+    <!-- Table outlining class schedule -->
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Class Name</th>
+                <th>Class Day/Time</th>
+                <th>Class Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Math 212</td>
+                <td>Monday, 8:00 AM</td>
+                <td>Statistics</td>
+            </tr>
+            <tr>
+                <td>Art 214</td>
+                <td>Wednesday, 8:00 AM</td>
+                <td>Ceramics 1</td>
+            </tr>
+            <tr>
+                <td>LUC 102</td>
+                <td>Friday, 11:30 AM</td>
+                <td>Career Connections</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+</html>
